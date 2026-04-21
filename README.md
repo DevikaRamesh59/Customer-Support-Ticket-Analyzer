@@ -1,7 +1,7 @@
 
 ### **Project Overview**:
 
-The **Customer Support Ticket Analyzer** is a Python-based data analytics project designed to transform raw customer support data into actionable business insights[cite: 5, 20]. [cite_start]By analyzing ticket descriptions and priority levels, the project identifies common service bottlenecks, gauges customer sentiment, and suggests strategies to improve overall service quality.
+The **Customer Support Ticket Analyzer** is a Python-based data analytics project designed to transform raw customer support data into actionable business insights. By analyzing ticket descriptions and priority levels, the project identifies common service bottlenecks, gauges customer sentiment, and suggests strategies to improve overall service quality.
 
 **Key Features:**
 
